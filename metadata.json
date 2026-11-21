@@ -1,0 +1,6 @@
+{
+  "name": "K-Lounge Paris",
+  "description": "K-Lounge Paris 2-week pop-up experience (March – April 2026, 10 rue Pastourelle, 75003 Paris): interactive skin quiz, passport missions, mini-games with pop-up rewards, app portal, free skin & hair diagnosis, and curated K-beauty.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
